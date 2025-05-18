@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Rise Luxe",
+        "type": "square",
+        "price": "₹1,599",
+        "color": "Black",
+        "image": "https://www.fireboltt.com/cdn/shop/files/rise-steel-black_2_1800x1800.png?v=1700205442"
+    },
+    {
+        "name": "Phoenix Ultra",
+        "type": "rounded",
+        "price": "₹1,699",
+        "color": "Grey",
+        "image": "https://www.fireboltt.com/cdn/shop/files/Grey_10.png?v=1682925148"
+    },
+    {
+        "name": "Ninja Call Pro Max",
+        "type": "square",
+        "price": "₹1,599",
+        "color": "Grey",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/0/j/5/2-01-android-ios-bsw128-fire-boltt-yes-original-imagpma7gnfzqj8e.jpeg?q=70&crop=false"
+    },
+    {
+        "name": "Combat",
+        "type": "square",
+        "price": "₹2,999",
+        "color": "Green",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/z/l/u/-original-imagxp8ucyyvv4pf.jpeg?q=70&crop=false"
+    },
+    {
+        "name": "Shark",
+        "type": "square",
+        "price": "₹2,999",
+        "color": "Green",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/a/k/u/-original-imagpgkzxz2xwz8m.jpeg?q=70&crop=false"
+    },
+    {
+        "name": "Legacy",
+        "type": "rounded",
+        "price": "₹1,999",
+        "color": "Black",
+        "image": "https://www.fireboltt.com/cdn/shop/files/legacy-black_1.png?v=1747119959"
+    },
+    {
+        "name": "Allure",
+        "type": "rounded",
+        "price": "₹2,799",
+        "color": "Gold",
+        "image": "https://www.fireboltt.com/cdn/shop/products/allure-gold_1.png?v=1680863856"
+    },
+    {
+        "name": "360 Pro",
+        "type": "rounded",
+        "price": "₹4,999",
+        "color": "Blue",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/w/b/y/1-32-360-pro-android-ios-fireboltt-yes-original-imaghpmagz88scmu.jpeg?q=70&crop=false"
+    },
+    {
+        "name": "Brillia",
+        "type": "square",
+        "price": "₹1,999",
+        "color": "Black",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/z/y/u/-original-imahaxzauadz7hwj.jpeg?q=70&crop=false"
+    }
+]
+
